@@ -1,0 +1,98 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+            "DisableIconText": false,
+            "IconPosition": 3,
+            "IconTextColor": 0,
+            "OpenOnStart": false,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 2,
+                    "buttontext": "Boas Vindas(Welcome)",
+                    "title1": "Apresentando o Servidor",
+                    "text1": "Seja muito bem-vindo ao servidor Gamosfera!\nTenha um bom jogo.\nApresentação do Servidor:\nPVE 3X Mods 24X7\nEste é um servidor que está ainda em processo de customização e ajustes.\nÉ um servidor PVE com mods, essencialmente 3X\ncom pequenas variações para mais ou para\nmenos dependendo do aspecto.\nÉ focado em uma aventura com desenvolvimento\nmais equilibraerdo sem avanços muito rápidos,\nmas, sem dificuldade excessiva.\nPor favor deixe sua sugestão ou nos contate caso tenha algum problema.\nEstamos a sua disposição.\nNos ajude a fazer o servidor crescer.",
+                    "title2": "Introducing the Server",
+                    "text2": "Welcome to the Gamosfera server!\nHave a good game.\nServer Presentation:\nPVE 3X Mods 24X7\nThis is a server that is still in the process of customization and adjustments.\nIt is a PVE server with mods, essentially 3X \nwith small variations for more or less\ndepending on the aspect.\nIt is focused on an adventure with\nmore balanced development without very rapid advances,\nbut without excessive difficulty.\nPlease leave your suggestion or contact us if you have any problems .\nWe are at your disposal.\nHelp us make the server grow.",
+                    "imageurl": "https://i.imgur.com/lR8zBNW.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 1,
+                    "buttontext": "Mods",
+                    "title1": "Lista de Mods(Mods List)",
+                    "text1": "Additions Ascended: Brachiosaurus\nAdditions Ascended: Archelon\nAdditions Ascended: Helicoprion\nAdditions Ascended: Deinotherium\nAdditions Ascended: Deinosuchus\nAdditions Ascended: Xiphactinus\nAdditions Ascended: Ceratosaurus\nBetter Rafts\nPelayory's Cryio Storage\nEz Engram Unlocker\nWbui2\nArkitect Structures Remastered\nSuper Spyglass Plus",
+                    "imageurl": "https://i.imgur.com/lR8zBNW.png"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 2,
+                    "buttontext": "Regras(rules)",
+                    "title1": "Regras e Orientações",
+                    "text1": "01 - Não ter comportamento desleal no servidor.\nEm resumo, não deve ter comportamento PvP.\nPenalidade por descumprimento:\nPrimeira vez será orientado\nSegunda vez será suspenso do servidor\nTerceira vez será banido.",
+                    "title2": "Rules and Guidelines",
+                    "text2": "01 - No unfair behavior on the server.\nIn short, no PvP behavior.\nPenalty for non-compliance:\nFirst time you will be guided\nSecond time you will be suspended from the server\nThird time you will be banned.",
+                    "imageurl": "https://i.imgur.com/lR8zBNW.png"
+                }
+            },
+            {
+                "tab4": {
+                    "layout": 2,
+                    "buttontext": "Doaçoes(Donations)",
+                    "title1": "Doações",
+                    "text1": "Nos ajude a manter e expandir o servidor doando qualquer valor\npor meio do nosso pix ou paypal.",
+                    "title2": "Donations",
+                    "text2": "Help us maintain and expand the server by donating any amount\nthrough our pix or paypal.",
+                    "imageurl": "https://i.imgur.com/PSwnw8M.png"
+                }
+            }            
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/4jnSHg8ZP6"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Unity",
+                    "url": "https://ark-unity.com/"
+                }
+            },
+            {
+                "link3": {
+                    "text": "Mods",
+                    "url": "https://www.curseforge.com/ark-survival-ascended/mods"
+                }
+            },
+            {
+                "link4": {
+                    "text": "Wikki",
+                    "url": "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended"
+                }
+            },
+            {
+                "link5": {
+                    "text": "Steam",
+                    "url": "https://store.steampowered.com/app/2399830/ARK_Survival_Ascended/"
+                }
+            },
+            {
+                "link6": {
+                    "text": "Dododex",
+                    "url": "https://www.dododex.com/"
+                }
+            }
+        ]
+    }
+}

@@ -21,7 +21,7 @@
                     "text1": "Seja muito bem-vindo ao servidor Gamosfera!\nTenha um bom jogo.\nApresentação do Servidor:\nPVE 3X Mods 24X7\nEste é um servidor que está ainda em processo de customização e ajustes.\nÉ um servidor PVE com mods, essencialmente 3X\ncom pequenas variações para mais ou para\nmenos dependendo do aspecto.\nÉ focado em uma aventura com desenvolvimento\nmais equilibraerdo sem avanços muito rápidos,\nmas, sem dificuldade excessiva.\nPor favor deixe sua sugestão ou nos contate caso tenha algum problema.\nEstamos a sua disposição.\nNos ajude a fazer o servidor crescer.",
                     "title2": "Introducing the Server",
                     "text2": "Welcome to the Gamosfera server!\nHave a good game.\nServer Presentation:\nPVE 3X Mods 24X7\nThis is a server that is still in the process of customization and adjustments.\nIt is a PVE server with mods, essentially 3X \nwith small variations for more or less\ndepending on the aspect.\nIt is focused on an adventure with\nmore balanced development without very rapid advances,\nbut without excessive difficulty.\nPlease leave your suggestion or contact us if you have any problems .\nWe are at your disposal.\nHelp us make the server grow.",
-                    "imageurl": "https://i.imgur.com/8NSEwNH.png"
+                    "imageurl": "https://i.imgur.com/cQcAsRZ.png"
                 }
             },
             {
@@ -29,8 +29,8 @@
                     "layout": 1,
                     "buttontext": "Mods",
                     "title1": "Lista de Mods(Mods List)",
-                    "text1": "Additions Ascended: Brachiosaurus\nAdditions Ascended: Archelon\nAdditions Ascended: Helicoprion\nAdditions Ascended: Deinotherium\nAdditions Ascended: Deinosuchus\nAdditions Ascended: Xiphactinus\nAdditions Ascended: Ceratosaurus\nBetter Rafts\nPelayory's Cryio Storage\nEz Engram Unlocker\nWbui2\nArkitect Structures Remastered\nSuper Spyglass Plus",
-                    "imageurl": "https://i.imgur.com/8NSEwNH.png"
+                    "text1": "Additions Ascended: Brachiosaurus\nAdditions Ascended: Archelon\nAdditions Ascended: Helicoprion\nAdditions Ascended: Deinotherium\nAdditions Ascended: Deinosuchus\nAdditions Ascended: Xiphactinus\nAdditions Ascended: Ceratosaurus\nBetter Rafts\nPelayory's Cryio Storage\nEz Engram Unlocker\nWbui2\nArkitect Structures Remastered\nSuper Spyglass Plus\nSuper Structures Ascended\nAlpha Oceanic Platform\nShiny! Dinos Ascended",
+                    "imageurl": "https://i.imgur.com/cQcAsRZ.png"
                 }
             },
             {
@@ -38,10 +38,10 @@
                     "layout": 2,
                     "buttontext": "Regras(rules)",
                     "title1": "Regras e Orientações",
-                    "text1": "01 - Não ter comportamento desleal no servidor.\nEm resumo, não deve ter comportamento PvP.\nPenalidade por descumprimento:\nPrimeira vez será orientado\nSegunda vez será suspenso do servidor\nTerceira vez será banido.",
+                    "text1": "01 - Não ter comportamento desleal no servidor.\nEm resumo, não deve ter comportamento PvP.\nPenalidade por descumprimento:\nPrimeira vez será orientado\nSegunda vez será suspenso do servidor\nTerceira vez será banido.\n02 - Não obstruir a entrada ou o interior de cavernas.\n03 - Deixar todas as armadilhas, extratores de seiva e bombas de petróleo destrancadas.",
                     "title2": "Rules and Guidelines",
-                    "text2": "01 - No unfair behavior on the server.\nIn short, no PvP behavior.\nPenalty for non-compliance:\nFirst time you will be guided\nSecond time you will be suspended from the server\nThird time you will be banned.",
-                    "imageurl": "https://i.imgur.com/lR8zBNW.png"
+                    "text2": "01 - No unfair behavior on the server.\nIn short, no PvP behavior.\nPenalty for non-compliance:\nFirst time you will be guided\nSecond time you will be suspended from the server\nThird time you will be banned.\n02 - Do not obstruct the entrance or interior of caves.\n03 - Leave all traps, sap extractors and oil pumps unlocked.",
+                    "imageurl": "https://i.imgur.com/cQcAsRZ.png"
                 }
             },
             {
@@ -52,7 +52,7 @@
                     "text1": "Nos ajude a manter e expandir o servidor doando qualquer valor\npor meio do nosso pix.",
                     "title2": "Donations",
                     "text2": "Help us maintain and expand the server by donating any amount\nthrough our pix.",
-                    "imageurl": "https://i.imgur.com/8NSEwNH.png"
+                    "imageurl": "https://i.imgur.com/cQcAsRZ.png"
                 }
             }            
         ],
@@ -89,8 +89,8 @@
             },
             {
                 "link6": {
-                    "text": "Dododex",
-                    "url": "https://www.dododex.com/"
+                    "text": "PayPal",
+                    "url": "https://www.paypal.com/invoice/p/#EYZCL5TZCF7YW9U6"
                 }
             }
         ]

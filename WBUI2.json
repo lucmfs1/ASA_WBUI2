@@ -18,9 +18,9 @@
                     "layout": 2,
                     "buttontext": "Boas Vindas(Welcome)",
                     "title1": "Apresentando o Servidor",
-                    "text1": "Seja muito bem-vindo ao servidor Gamosfera!\nTenha um bom jogo.\nApresentação do Servidor:\nPVE 3X Mods 24X7\nEste é um servidor que está ainda em processo de customização e ajustes.\nÉ um servidor PVE com mods, essencialmente 3X\ncom pequenas variações para mais ou para\nmenos dependendo do aspecto.\nÉ focado em uma aventura com desenvolvimento\nmais equilibraerdo sem avanços muito rápidos,\nmas, sem dificuldade excessiva.\nPor favor deixe sua sugestão ou nos contate caso tenha algum problema.\nEstamos a sua disposição.\nNos ajude a fazer o servidor crescer.",
+                    "text1": "Seja muito bem-vindo ao servidor Gamosfera!\nTenha um bom jogo.\nApresentação do Servidor:\nPVE 3X Mods 24X7\nEste é um servidor que está ainda em processo de customização e ajustes. É um servidor PVE com mods, essencialmente 3X com pequenas variações para mais ou para menos dependendo do aspecto. É focado em uma aventura com desenvolvimento mais equilibraerdo sem avanços muito rápidos, mas, sem dificuldade excessiva. Por favor deixe sua sugestão ou nos contate caso tenha algum problema. Estamos a sua disposição. Nos ajude a fazer o servidor crescer.",
                     "title2": "Introducing the Server",
-                    "text2": "Welcome to the Gamosfera server!\nHave a good game.\nServer Presentation:\nPVE 3X Mods 24X7\nThis is a server that is still in the process of customization and adjustments.\nIt is a PVE server with mods, essentially 3X \nwith small variations for more or less\ndepending on the aspect.\nIt is focused on an adventure with\nmore balanced development without very rapid advances,\nbut without excessive difficulty.\nPlease leave your suggestion or contact us if you have any problems .\nWe are at your disposal.\nHelp us make the server grow.",
+                    "text2": "Welcome to the Gamosfera server!\nHave a good game.\nServer Presentation: PVE 3X Mods 24X7 This is a server that is still in the process of customization and adjustments. It is a PVE server with mods, essentially 3X  with small variations for more or less depending on the aspect. It is focused on an adventure with more balanced development without very rapid advances, but without excessive difficulty. Please leave your suggestion or contact us if you have any problems . We are at your disposal. Help us make the server grow.",
                     "imageurl": "https://i.imgur.com/cQcAsRZ.png"
                 }
             },
@@ -38,9 +38,9 @@
                     "layout": 2,
                     "buttontext": "Regras(rules)",
                     "title1": "Regras e Orientações",
-                    "text1": "01 - Não ter comportamento desleal no servidor.\nEm resumo, não deve ter comportamento PvP.\nPenalidade por descumprimento:\nPrimeira vez será orientado\nSegunda vez será suspenso do servidor\nTerceira vez será banido.\n02 - Não obstruir a entrada ou o interior de cavernas.\n03 - Deixar todas as armadilhas, extratores de seiva e bombas de petróleo destrancadas.",
+                    "text1": "01 - Não ter comportamento desleal no servidor. Em resumo, não deve ter comportamento PvP.\n02 - Não obstruir a entrada ou o interior de cavernas.\n03 - Deixar todas as armadilhas, extratores de seiva e bombas de petróleo destrancadas.\nPenalidades por descumprimento:\nPrimeira vez será orientado\nSegunda vez será suspenso do servidor\nTerceira vez será banido.",
                     "title2": "Rules and Guidelines",
-                    "text2": "01 - No unfair behavior on the server.\nIn short, no PvP behavior.\nPenalty for non-compliance:\nFirst time you will be guided\nSecond time you will be suspended from the server\nThird time you will be banned.\n02 - Do not obstruct the entrance or interior of caves.\n03 - Leave all traps, sap extractors and oil pumps unlocked.",
+                    "text2": "01 - No unfair behavior on the server. In short, no PvP behavior.\n02 - Do not obstruct the entrance or interior of caves.\n03 - Leave all traps, sap extractors and oil pumps unlocked.\nPenalties for non-compliance:\nFirst time you will be guided\nSecond time you will be suspended from the server\nThird time you will be banned.",
                     "imageurl": "https://i.imgur.com/cQcAsRZ.png"
                 }
             },
@@ -49,9 +49,9 @@
                     "layout": 2,
                     "buttontext": "Doaçoes(Donations)",
                     "title1": "Doações",
-                    "text1": "Nos ajude a manter e expandir o servidor doando qualquer valor\npor meio do nosso pix ou do nosso Paypal.",
+                    "text1": "Nos ajude a manter e expandir o servidor doando qualquer valor por meio do nosso pix ou do nosso Paypal.",
                     "title2": "Donations",
-                    "text2": "Help us maintain and expand the server by donating any amount\nthrough our pix or our Paypal.",
+                    "text2": "Help us maintain and expand the server by donating any amount through our pix or our Paypal.",
                     "imageurl": "https://i.imgur.com/cQcAsRZ.png"
                 }
             },
@@ -60,9 +60,9 @@
                     "layout": 2,
                     "buttontext": "Novidades(News)",
                     "title1": "O que estamos fazendo?",
-                    "text1": "Olá pessoal, essa sessão será usada para informarmos vocês das novidades, das atividades do servidor. Neste momento estamos expandindo nosso Hardware.\nAdquirimos os seguintes itens: 1 nvme m.2 V4 de 2Tb, 2 Processadores Xeon E5 2697A V4, Placa mãe HUANANZHI X99 F8D Plus, 256 Gb de memória ram DDR4, 1 Water Cooler MasterLiquid ML240L V2.\nEstes itens vão nos possibilitar disponibilizar mais alguns servidores com outras configurações e manter on line o nosso Cluster de ASE além do ascended. No caso dos processadores deveria ser a versão Xeon E5 2699A V4, mas infelizmente nosso amado governo não permitiu a entrada aqui no Brasil mesmo depois de ter sido pago mais de R$ 2000,00 apenas em impostos.\nIrei informá-los de qualquer mudança. Por isso precisamos da sua ajuda para manter o servidor e continuar com os upgrades. Qualquer outra informação adicional disponibilizaremos no nosso discord. Muito obrigado pelo apoio",
+                    "text1": "Olá pessoal, essa sessão será usada para informarmos vocês das novidades, das atividades do servidor. Neste momento estamos expandindo nosso Hardware.\nAdquirimos os seguintes itens: 1 nvme m.2 V4 de 2Tb, 2 Processadores Xeon E5 2697A V4, Placa mãe HUANANZHI X99 F8D Plus, 256 Gb de memória ram DDR4, 1 Water Cooler MasterLiquid ML240L V2.\nEstes itens vão nos possibilitar disponibilizar mais alguns servidores com outras configurações e manter on line o nosso Cluster de ASE além do ascended. No caso dos processadores deveria ser a versão Xeon E5 2699A V4, mas infelizmente nosso amado governo não permitiu a entrada aqui no Brasil mesmo depois de ter sido pago mais de R$ 2000,00 apenas em impostos. Irei informá-los de qualquer mudança.\nPor isso precisamos da sua ajuda para manter o servidor e continuar com os upgrades. Qualquer outra informação adicional disponibilizaremos no nosso discord. Muito obrigado pelo apoio",
                     "title2": "What are we doing?",
-                    "text2": "Hello everyone, this session will be used to inform you of the news and server activities.\nWe are currently expanding our Hardware. We acquired the following items: 1 2Tb nvme m.2\n V4, 2 Xeon E5 2697A V4 Processors, HUANANZHI X99 F8D Plus motherboard, 256 Gb of\n DDR4 ram, 1 Water Cooler MasterLiquid ML240L V2.\nThese items will enable us to make some more servers available with other configurations and\n keep our ASE Cluster online in addition to ascended. In the case of processors should be the\n Xeon E5 2699A V4 version, but unfortunately our beloved government did not allow entry\n here in Brazil even after having paid more than R$ 2000.00 in taxes alone.\nI will inform you of any changes. for your help to maintain the server and continue with\n upgrades. Any other additional information we will make available on our discord. Thank you\n very much for your support",
+                    "text2": "Hello everyone, this session will be used to inform you of the news and server activities.We are currently expanding our Hardware.\nWe acquired the following items: 1 2Tb nvme m.2 V4, 2 Xeon E5 2697A V4 Processors, HUANANZHI X99 F8D Plus motherboard, 256 Gb of DDR4 ram, 1 Water Cooler MasterLiquid ML240L V2.\nThese items will enable us to make some more servers available with other configurations and keep our ASE Cluster online in addition to ascended. In the case of processors should be the Xeon E5 2699A V4 version, but unfortunately our beloved government did not allow entry here in Brazil even after having paid more than $ 400.00 dollars in taxes alone. I will inform you of any changes.\nThat's why we need your help to maintain the server and continue with upgrades. Any other additional information we will make available on our discord. Thank you\n very much for your support",
                     "imageurl": "https://i.imgur.com/cQcAsRZ.png"
                 }
             }            

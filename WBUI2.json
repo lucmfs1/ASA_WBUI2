@@ -26,10 +26,12 @@
             },
             {
                 "tab2": {
-                    "layout": 1,
+                    "layout": 2,
                     "buttontext": "Mods",
-                    "title1": "Lista de Mods(Mods List)",
-                    "text1": "Additions Ascended: Brachiosaurus\nAdditions Ascended: Archelon\nAdditions Ascended: Helicoprion\nAdditions Ascended: Deinotherium\nAdditions Ascended: Deinosuchus\nAdditions Ascended: Xiphactinus\nAdditions Ascended: Ceratosaurus\nBetter Rafts\nPelayory's Cryio Storage\nEz Engram Unlocker\nWbui2\nArkitect Structures Remastered\nSuper Spyglass Plus\nAlpha Oceanic Platform\nShiny! Dinos Ascended\nMuch Stuff Pack\nMX-E Ark Shop UI\nBetter MotorBoat\nRR-Ortodontidae Sharks\nWater Bore\nMedium Gates\nAdditional Handheld Lights\nAlpha Everything\nDwarven Builders Mod\nS-Dino Variants\nGryphons\nStyracosaurus\nEnhanced Cooking\nCG Structures\nXtra Tranqs\nKlinger Additional Rustic Building\nThieves Necklace\nRepair Kits\nNature's Touch\nRay's Stygimoloch\nExquisite Potions Galore\nWireless Power Repeater\nArkonauts Community Currency Mod",
+					"title1": "",
+					"text1": "",
+                    "title2": "Lista de Mods(Mods List)",
+                    "text2": "Additions Ascended: Brachiosaurus\nAdditions Ascended: Archelon\nAdditions Ascended: Helicoprion\nAdditions Ascended: Deinotherium\nAdditions Ascended: Deinosuchus\nAdditions Ascended: Xiphactinus\nAdditions Ascended: Ceratosaurus\nBetter Rafts\nPelayory's Cryio Storage\nEz Engram Unlocker\nWbui2\nArkitect Structures Remastered\nSuper Spyglass Plus\nAlpha Oceanic Platform\nShiny! Dinos Ascended\nMuch Stuff Pack\nMX-E Ark Shop UI\nBetter MotorBoat\nRR-Ortodontidae Sharks\nWater Bore\nMedium Gates\nAdditional Handheld Lights\nAlpha Everything\nDwarven Builders Mod\nS-Dino Variants\nGryphons\nStyracosaurus\nEnhanced Cooking\nCG Structures\nXtra Tranqs\nKlinger Additional Rustic Building\nThieves Necklace\nRepair Kits\nNature's Touch\nRay's Stygimoloch\nExquisite Potions Galore\nWireless Power Repeater\nArkonauts Community Currency Mod",
                     "imageurl": "https://i.imgur.com/cQcAsRZ.png"
                 }
             },
